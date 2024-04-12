@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Сергей Курочкин](https://up.htmlacademy.ru/adaptive/31/user/2368811).
-* Наставник: [Ольга Ветер] (https://up.htmlacademy.ru)
+* Наставник: [Ольга Ветер] (https://up.htmlacademy.ru )
 
 ---
 
